@@ -20,11 +20,11 @@ export const trainerData: TrainerData = {
   title: "Senior Cybersecurity Expert & Lead Instructor",
   description:
     "Pravin Nagare is a Cybersecurity Trainer with 10+ years of experience, specializing in Ethical Hacking, SOC, Forensics, and Penetration Testing. He has trained 15,000+ students with a practical, career-focused approach to learning.",
-  experience: "10+ Years Exp",
+  experience: "12+ Years Exp",
   image: trainerimg,
 
   achievements: [
-    { icon: Users, label: "15,000+ Students Mentored" },
+    { icon: Users, label: "25,000+ Students Mentored" },
     { icon: BookOpen, label: "Real Industry Projects" },
     { icon: Award, label: "Top Rated Instructor" },
   ],
