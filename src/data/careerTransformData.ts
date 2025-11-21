@@ -128,7 +128,7 @@ export const careerTransformData = [
 
     roleAfter: "Cyber Security Trainer",
     companyAfter: "Capgemini",
-    companyAfterLogo: "/transform/companylogo/capgemini.png",
+    companyAfterLogo: "https://www.logo.wine/a/logo/Capgemini/Capgemini-Logo.wine.svg",
     storyVideo: "https://www.youtube.com/embed/hY7m5jjJ9mM",
   },
 ];
