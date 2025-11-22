@@ -13,7 +13,7 @@ const Navbar = ({ onEnquiryClick }: NavbarProps) => {
   const menuItems = [
     { label: "Home", href: "#home" },
     { label: "Courses", href: "#courses" },
-    { label: "Trainer", href: "#trainer" },
+    { label: "Trainers", href: "#trainer" },
   ];
 
   const scrollToSection = (href: string) => {
